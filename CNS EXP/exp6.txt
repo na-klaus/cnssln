@@ -1,0 +1,13 @@
+DIG: 
+
+SYNTAX
+$ Dig domain_name
+
+
+Syntax
+traceroute [-d] [-h MaxHops] [-w TimeOut] [-4] [-6] target [/?]
+
+Nslookup Syntax
+The syntax for Nslookup (in the command prompt mode) is as follows:
+nslookup [-opt ...] [{Host| [Server]}]
+
